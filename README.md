@@ -1,1 +1,1 @@
-Тестовое приложение с использованием SpringBoot, Thymeleaf
+Учебный проект по изучению Java, SpringBoot, REST API, PostgreSQL и Docker
